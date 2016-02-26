@@ -1,4 +1,4 @@
-# JeoPHPardy
+# Fork of Jeremy Wimbledom JeoPHPardy
 
 This is a simple PHP/Javascript Jeopardy-like board that I've used to run some trivia games in the PHP community.
 
